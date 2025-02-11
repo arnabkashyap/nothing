@@ -30,6 +30,8 @@ body {
 
 .one {
   font-size: 4.5rem;
+  position : relative;
+  top : -10vh;
 }
 
 .two {
